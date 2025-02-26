@@ -1,0 +1,10 @@
+<application xmlns="http://ns.adobe.com/air/application/51.1">
+  <id>WebMain</id>
+  <filename>WebMain</filename>
+  <name>WebMain</name>
+  <versionNumber>0.0.0</versionNumber>
+  <initialWindow>
+    <content>WebMain.swf</content>
+    <visible>true</visible>
+  </initialWindow>
+</application>
